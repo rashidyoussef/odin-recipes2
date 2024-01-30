@@ -1,0 +1,64 @@
+.ind,.aguak,.faji,.huebi {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.background {
+    background-color: bisque;
+}
+
+.container{
+    display:flex;
+}
+.lisst {
+    border: 2px solid saddlebrown;
+    display:block;
+    width:300px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: left;
+}
+
+.tit    {
+    border: 2px solid saddlebrown;
+    display:flex;
+    margin:10px auto;
+    width:200px;
+    box-sizing: border-box;
+}
+
+h3:not(.eich3){
+    display:flex;
+    border:1px solid black;
+    text-align: center;
+    justify-content: center;
+    width:200px;
+    margin-left:auto;
+    margin-right:auto;
+    }
+
+    button,button:visited {
+        padding:5px;
+        background-color: chocolate;
+        transition-duration: 0.4s;
+        font-size: 20px;
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+        border-radius: 8px;
+       }
+
+       button:hover {
+        background-color:burlywood;
+        }
+
+        a:visited {
+            color:black;
+        }
+
+        a:hover{
+            font-weight: 800;
+        }
+
+       
+
